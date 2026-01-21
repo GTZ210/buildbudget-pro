@@ -1,0 +1,8 @@
+
+{
+  "name": "BuildBudget Pro",
+  "description": "Professional construction budgeting tool using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
